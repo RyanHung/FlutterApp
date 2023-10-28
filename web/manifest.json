@@ -1,0 +1,18 @@
+{
+    "name": "EduApp",
+    "short_name": "EduApp",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "An app designed to educate others in the Bay Area on the ecosystems around them.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "wolf.png",
+            "sizes": "900x800",
+            "type": "image/png"
+        }
+    ]
+}
